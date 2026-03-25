@@ -1,0 +1,19 @@
+name: mines_ia
+description: Mines IA - Estratégia Profissional
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.0
+  flutter_secure_storage: ^9.0.0
+  crypto: ^3.0.3
+  vibration: ^1.8.0
+  flutter_animate: ^4.0.0
+
+flutter:
+  uses-material-design: true
